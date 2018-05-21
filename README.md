@@ -1,2 +1,2 @@
 # Password-Brute-Force-Attack
-The most basic brute-force attack illustration 
+Using Python to simulate a password brute-force attack.. This is for educational purposes.
